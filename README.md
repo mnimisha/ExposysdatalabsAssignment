@@ -14,4 +14,4 @@ re
 
 This program uses GLoVe pretrained model for word embedding so you need to download glove.42B.300d.txt from http://nlp.stanford.edu/data/glove.6B.zip
 
-what(1).ipynb file contain the classification code and at the end of the code we can give the customized input for testing.
+what_(1).ipynb file contain the classification code and at the end of the code we can give the customized input for testing.
